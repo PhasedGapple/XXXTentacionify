@@ -9,3 +9,6 @@ You can download the latest version from [here](https://github.com/PhasedGapple/
 https://github.com/user-attachments/assets/9339407d-cea9-4805-a76e-bad74d2dcd44
 
 A higher resolution showcase exists at https://github.com/PhasedGapple/XXXTentacionify/raw/refs/heads/master/showcase.mp4
+
+## Another Nice Feature
+You can just replace the **xxxtentacion.jpg** file with another jpeg file so you can hide files in another picture, aslong as you extract the file using the image its made with.
