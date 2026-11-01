@@ -6,4 +6,6 @@ This program uses a technique called steganography to hide files inside images. 
 ## Where can I download it?
 You can download the latest version from [here](https://github.com/PhasedGapple/XXXTentacionify/releases/tag/RELEASE).
 ## Showcase
-<video src="https://github.com/PhasedGapple/XXXTentacionify/raw/refs/heads/master/showcase.mp4" controls width="640"></video>
+https://github.com/user-attachments/assets/9339407d-cea9-4805-a76e-bad74d2dcd44
+
+A higher resolution showcase exists at https://github.com/PhasedGapple/XXXTentacionify/raw/refs/heads/master/showcase.mp4
